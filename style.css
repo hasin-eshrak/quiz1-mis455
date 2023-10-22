@@ -34,7 +34,7 @@ h2{
 
 .rectangle{
     background-color: lightsalmon;
-    width: 35%;
+    width: 45%;
     margin-right: 80px;
     margin-top: 50px;
     height: 400px;
@@ -43,7 +43,7 @@ h2{
 
 .upperWords{
     width: 100%;
-    margin-left: 200px;
+    margin-left: 120px;
     margin-right: 0px;
     margin-top: 80px;
 }
@@ -59,7 +59,7 @@ h2{
 
 .lower{
     display: flex;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 .pictureTwo{
@@ -70,7 +70,7 @@ h2{
 
 .pictureTwo img{
     width: 60%;
-    margin-left: 250px;
+    margin-left: 300px;
     border-radius: 10px;
 }
 
@@ -86,4 +86,4 @@ h2{
 .lowerWords{
     width: 30%;
     padding: 50px;
-} 
+}
